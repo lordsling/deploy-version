@@ -12,7 +12,7 @@ each feature. Then, you can deploy all new features at once.
 ### Installation
 This package can be installed through Composer:
 ```bash
-composer require nlmenke/deploy-version
+composer require lordsling/deploy-version
 ```
 
 In Laravel 5.5 and above, the package will auto-register the service provider. In Laravel 5.4, you
