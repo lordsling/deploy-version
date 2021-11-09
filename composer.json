@@ -1,5 +1,5 @@
 {
-    "name": "nlmenke/deploy-version",
+    "name": "lordsling/deploy-version",
     "description": "Automatically update application versions by deploying.",
     "keywords": ["laravel", "deploy", "deployment", "version", "versioning"],
     "type": "library",
